@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(edivHz.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+}
+h1
+{
+    padding: 10px;
+    color: rgb(0, 255, 213);
+    text-align: center;
+    background-color: transparent;
+    background-position: top;
+}
+button
+{
+    margin: 10;
+    width: 200px;
+    padding: 10px;
+    position: absolute;
+    top: 50% -50%;
+    left: 4%;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: white;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    border-radius: 20px;
+    bottom: 20px;
+    font-family: cursive;
+}

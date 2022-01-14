@@ -1,0 +1,174 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(hd.png);
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+}
+.box
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: url(first.jpg);
+    background-position: center;
+    background-size: cover;
+    top: 30%;
+    left: 20%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.lbox
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    top: 30%;
+    left: 80%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.kbox
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    top: 30%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.vbox
+{
+    width: 1000px;
+    height: 200px;
+    border-radius: 20px;
+    background: url(edivHz.jpg);
+    background-position: center;
+    background-size: cover;
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-bottom: white;
+}
+.box input[type="button"]
+{
+    font-size: 10px;
+    text-align: center;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: linear-gradient(white,darkgrey);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    font-family: cursive;
+}
+.lbox input[type="button"]
+{
+    width: 150;
+    font-size: 10px;
+    text-align: center;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: linear-gradient(white,darkgrey);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    font-family: cursive;
+}
+.kbox input[type="button"]
+{
+    width: 150;
+    font-size: 10px;
+    text-align: center;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: linear-gradient(white,darkgrey);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    font-family: cursive;
+}
+.vbox input[type="button"]
+{
+    width: 1000;
+    font-size: 10px;
+    text-align: center;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: rgb(255, 0, 0);
+    background-position: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: cursive;
+}
+p
+{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    color: lime;
+    background-image: url();
+}
+p2{
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    color: lime;
+    background-image: url();
+}
+h1
+{
+    text-align: center;
+    color: aqua;
+
+}
+button
+{
+    margin: 10;
+    width: 200px;
+    padding: 10px;
+    position: absolute;
+    top: 50% -50%;
+    left: 4%;
+    border:none;
+    outline: none;
+    height: 40px;
+    background: white;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    border-radius: 20px;
+    bottom: 20px;
+    font-family: cursive;
+}
